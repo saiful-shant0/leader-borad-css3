@@ -94,9 +94,7 @@ hr{
      grid-template-columns: repeat(3, 1fr);
      grid-column-gap: 24px;
  }
- .course{
-     
- }
+ 
  .course .courses-banner img{
     width: 224px;
     height: 104px;
@@ -160,4 +158,3 @@ hr{
         
         grid-template-columns:repeat(1, 1fr) ;
     }
-
